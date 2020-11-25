@@ -1,2 +1,2 @@
-# ichimoku-signals
-Signals if the Ichimoku Cloud Indicator looks bullish or bearish
+# Crypto Trading Bot
+Project tab has task management
