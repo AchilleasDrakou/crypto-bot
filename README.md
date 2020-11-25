@@ -1,2 +1,2 @@
 # Crypto Trading Bot
-Project tab has task management
+"Projects" tab has task management
